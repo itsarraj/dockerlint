@@ -9,6 +9,12 @@ this well but drags a Haskell runtime along; this is a static binary
 covering the rules that matter most, with no GHC anywhere near the
 critical path.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
